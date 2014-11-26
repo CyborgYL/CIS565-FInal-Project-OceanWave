@@ -22,7 +22,13 @@ Lighting
 * Subsurface scattering
 * Interaction with objects
 
+#Reference Images
+
 #References
+------------------------------
+![Subsurface scattering](/AlphaPresentation/sss.PNG)
+![](/AlphaPresentation/height.PNG)
+![](/AlphaPresentation/brdf.PNG)
 ------------------------------
 “A unified directional spectrum for long and short wind-driven waves” - T. Elfouhaily, B. Chapron, and K. Katsaros 
 
