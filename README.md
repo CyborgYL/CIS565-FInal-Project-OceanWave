@@ -30,9 +30,10 @@ Lighting
 
 #Alpha Version Progress
 ------------------------------
+* Mesh grids generation for ocean surface
 * Setting up render textures for doing FFT in the fragment shader
 * Simple noise spectrum generation for ocean wave simulation
-* wireframe rendering of ocean waves
+* Wireframe rendering of ocean waves
 ![Alpha Version](/AlphaPresentation/wireframe.PNG)
 
 #Base Codes
