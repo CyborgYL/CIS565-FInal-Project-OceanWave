@@ -37,10 +37,10 @@ Lighting
 
 #Base Codes
 ------------------------------
-* EncodeFloat.cs
+* EncodeFloat.cs, EncodeFloat.shader
 
 passing and reading encoded float to and from rendertexture
-* FourierGPU.cs
+* FourierGPU.cs, FourierGPU.shader
 
 FFT functions
 
