@@ -28,6 +28,21 @@ Lighting
 ![](/AlphaPresentation/height.PNG)
 ![](/AlphaPresentation/brdf.PNG)
 
+#Alpha Version Progress
+------------------------------
+* Setting up render textures for doing FFT in the fragment shader
+* Simple noise spectrum generation for ocean wave simulation
+* wireframe rendering of ocean waves
+
+#Base Codes
+------------------------------
+* EncodeFloat.cs
+
+passing and reading encoded float to and from rendertexture
+* FourierGPU.cs
+
+FFT functions
+
 #References
 ------------------------------
 “A unified directional spectrum for long and short wind-driven waves” - T. Elfouhaily, B. Chapron, and K. Katsaros 
