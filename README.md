@@ -81,6 +81,9 @@ Snapshot in Eric Bruneton's paper
 * EncodeFloat.cs, EncodeFloat.shader
 
 passing and reading encoded float to and from rendertexture
+
+http://scrawkblog.com/2013/06/27/encodedecode-floating-point-textures-in-unity/
+
 * FourierGPU.cs, FourierGPU.shader
 
 FFT functions
