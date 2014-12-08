@@ -25,13 +25,27 @@ Lighting
 ------------------------------
 Video: http://youtu.be/dvUf_FV1XOE
 
+Here are some images from the program
 ![cover](/Results/cover.png)
-![](/Results/stats.png)
+
+![](/Results/components.gif)
+
+Turning on and off several components in ocean shader.
+
+![](/Results/comparison.gif)
+
+Combination of components.
+
 
 #Performance Analysis
 ------------------------------
+Profiling on CPU and GPU usage
 ![](/Results/profiler.PNG)
 ![](/Results/profiler2.PNG)
+Our program is mainly calculating in GPU so CPU usage is pretty little. The variance of slope is calculated in CPU per vertex. The grid size is 128 x 128.
+The program runs very fast on a desktop computer with 2000 FPS when V-Sync is turned off. (i7-4770K and GTX780)
+
+The following test is made using GT555M
 ![](/Results/cost_in_shader.PNG)
 
 The final rendering of ocean is in Oceanbrdf shader. Here is the graph about the time cost of different graphics features. The lighting all cost about 2ms. The white caps cost about 6ms.
