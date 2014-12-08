@@ -57,8 +57,12 @@ To perform the basic wave simulation and BRDF lighting. We need to generate one 
 #Reference Images
 ------------------------------
 ![Subsurface scattering](/AlphaPresentation/sss.PNG)
-![](/AlphaPresentation/height.PNG)
+![](/AlphaPresentation/Reference IMG/pic1.jpg)
+
+Photo on the Internet
 ![](/AlphaPresentation/brdf.PNG)
+
+Snapshot in Eric Bruneton's paper
 
 #Alpha Version Progress
 ------------------------------
