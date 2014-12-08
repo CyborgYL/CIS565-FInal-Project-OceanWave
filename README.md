@@ -23,6 +23,8 @@ Lighting
 
 #Snapshots
 ------------------------------
+Video: http://youtu.be/dvUf_FV1XOE
+
 ![cover](/Results/cover.png)
 ![](/Results/stats.png)
 
