@@ -57,9 +57,11 @@ To perform the basic wave simulation and BRDF lighting. We need to generate one 
 #Reference Images
 ------------------------------
 ![Subsurface scattering](/AlphaPresentation/sss.PNG)
-![](/AlphaPresentation/Reference IMG/pic1.jpg)
+
+![](https://github.com/CyborgYL/CIS565-FInal-Project-OceanWave/blob/master/Results/Reference%20IMG/pic1.jpg)
 
 Photo on the Internet
+
 ![](/AlphaPresentation/brdf.PNG)
 
 Snapshot in Eric Bruneton's paper
