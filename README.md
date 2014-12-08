@@ -33,7 +33,12 @@ Video: http://youtu.be/dvUf_FV1XOE
 ![](/Results/profiler.PNG)
 ![](/Results/profiler2.PNG)
 ![](/Results/cost_in_shader.PNG)
+
+The final rendering of ocean is in Oceanbrdf shader. Here is the graph about the time cost of different graphics features. The lighting all cost about 2ms. The white caps cost about 6ms.
+
 ![](/Results/cost_in_maps.PNG)
+
+To perform the basic wave simulation and BRDF lighting. We need to generate one height map and two slope map, which will cost 7ms through in our test. To add dispalcement in x and z direction we need to generate two displacement map, which will cost about 5.2 ms. For the white caps we need to precompute jaccobian, which will cost about 7.4ms.
 
 #Reference Images
 ------------------------------
