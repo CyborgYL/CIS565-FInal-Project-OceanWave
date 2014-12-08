@@ -58,6 +58,8 @@ To perform the basic wave simulation and BRDF lighting. We need to generate one 
 ------------------------------
 ![Subsurface scattering](/AlphaPresentation/sss.PNG)
 
+Ocean from Assasin's Creed III
+
 ![](https://github.com/CyborgYL/CIS565-FInal-Project-OceanWave/blob/master/Results/Reference%20IMG/pic1.jpg)
 
 Photo on the Internet
