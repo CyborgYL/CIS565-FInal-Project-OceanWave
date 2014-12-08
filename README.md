@@ -92,4 +92,9 @@ FFT functions
 Real-time Realistic Ocean Lighting using Seamless Transitions from Geometry to BRDF
 Eric Bruneton and Fabrice Neyret and Nicolas Holzschuch
 
+Real-time Animation and Rendering of Ocean Whitecaps. Jonathan Dupuy ∗. Eric Bruneton †. INRIA Grenoble Rhône-Alpes
+https://github.com/jdupuy/whitecaps, http://liris.cnrs.fr/Documents/Liris-5812.pdf
+
+http://evasion.inrialpes.fr/~Eric.Bruneton/
+
 
