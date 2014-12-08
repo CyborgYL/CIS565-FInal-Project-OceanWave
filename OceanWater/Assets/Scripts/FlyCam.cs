@@ -5,13 +5,6 @@ public class FlyCam : MonoBehaviour
 {
 	
 	/*
-	EXTENDED FLYCAM
-		Desi Quintans (CowfaceGames.com), 17 August 2012.
-		Based on FlyThrough.js by Slin (http://wiki.unity3d.com/index.php/FlyThrough), 17 May 2011.
- 
-	LICENSE
-		Free as in speech, and free as in beer.
- 
 	FEATURES
 		WASD/Arrows:    Movement
 		          Q:    Climb
@@ -37,12 +30,6 @@ public class FlyCam : MonoBehaviour
 	
 	void Update ()
 	{
-//		rotationX += Input.GetAxis("Mouse X") * cameraSensitivity * Time.deltaTime;
-//		rotationY += Input.GetAxis("Mouse Y") * cameraSensitivity * Time.deltaTime;
-//		rotationY = Mathf.Clamp (rotationY, -90, 90);
-//		
-//		transform.localRotation = Quaternion.AngleAxis(rotationX, Vector3.up);
-//		transform.localRotation *= Quaternion.AngleAxis(rotationY, Vector3.left);
 		
 		if (Input.GetKey (KeyCode.LeftShift) || Input.GetKey (KeyCode.RightShift))
 		{

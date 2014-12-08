@@ -151,6 +151,7 @@ public class Grid : MonoBehaviour {
 		}
 		else if(needUpdate && !UIControl.instance.holdingMouse){
 			m_waves.Release ();
+			Destroy(m_grid);
 			released = true;
 			return;
 		}
