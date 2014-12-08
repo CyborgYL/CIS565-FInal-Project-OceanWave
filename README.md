@@ -32,6 +32,9 @@ Video: http://youtu.be/dvUf_FV1XOE
 ------------------------------
 ![](/Results/profiler.PNG)
 ![](/Results/profiler2.PNG)
+![](/Results/cost_in_shader.PNG)
+![](/Results/cost_in_maps.PNG)
+
 #Reference Images
 ------------------------------
 ![Subsurface scattering](/AlphaPresentation/sss.PNG)
