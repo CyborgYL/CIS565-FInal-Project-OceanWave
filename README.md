@@ -10,18 +10,26 @@ Surface generation
 
 Lighting
 
-* Normal
+* Reflection
 
-* Specular
+* Refraction
 
 * BRDF
 
-#Possible Extra Features
-------------------------------
-* Color blending
-* Subsurface scattering
-* Interaction with objects
+#Extra Featres
 
+* White Caps
+* Specular highlight from the Sun
+
+#Snapshots
+------------------------------
+![cover](/Results/cover.png)
+![](/Results/stats.png)
+
+#Performance Analysis
+------------------------------
+![](/Results/profiler.PNG)
+![](/Results/profiler2.PNG)
 #Reference Images
 ------------------------------
 ![Subsurface scattering](/AlphaPresentation/sss.PNG)
